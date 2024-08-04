@@ -5,7 +5,7 @@
    <br>
    <table>
      <tr>
-       <td><img src="result/1.Gray-Scale.png" alt="Grayscale Image" width="200" height="200"></td>
+       <td><img src="result/1.Gray-Scale.png" alt="Grayscale Image" width="300" height="300"></td>
      </tr>
    </table>
 
@@ -14,7 +14,7 @@
    <br>
    <table>
      <tr>
-       <td><img src="result/2.Gaussian-Blur.png" alt="Gaussian Blur" width="200" height="200"></td>
+       <td><img src="result/2.Gaussian-Blur.png" alt="Gaussian Blur" width="300" height="300"></td>
      </tr>
    </table>
 
