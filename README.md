@@ -2,8 +2,8 @@
 
 1. **Convert Image to Grayscale:**
    - The image is converted to grayscale.
-     ![Grayscale Image](result/1.Gray-Scale.png)
+     <img src="result/1.Gray-Scale.png" alt="Grayscale Image" width="400">
 
 2. **Apply Gaussian Blur:**
    - Gaussian Blur operation is applied to the grayscale image to remove noise.
-     ![Gaussian Blur](result/2.Gaussian-Blur.png)
+     <img src="result/2.Gaussian-Blur.png" alt="Gaussian Blur" width="400">
